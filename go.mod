@@ -1,4 +1,4 @@
-module github.com/cloudhut/connect-client
+module github.com/klinux/connect-client
 
 go 1.16
 
